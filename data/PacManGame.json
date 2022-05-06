@@ -1,0 +1,22 @@
+{
+    "score": 61,
+    "isGameOver": true,
+    "pac": {
+        "posX": 735,
+        "posY": 438,
+        "symbol": 94
+    },
+    "caspers": [],
+    "ghosts": [],
+    "Event Log": [],
+    "pellets": [],
+    "inventory": {
+        "powers": [],
+        "eatenGhosts": []
+    },
+    "powerList": [{
+        "posX": 885,
+        "posY": 885,
+        "symbol": 42
+    }]
+}
